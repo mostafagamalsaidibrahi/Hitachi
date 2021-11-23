@@ -1,0 +1,94 @@
+.cover-one{
+  background-image: url(../../images/elevator.jpg);
+  height: 91.3%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cover-one .cover-two{
+  background-color: #0000004a;
+  height: 100%;
+}
+.cover-one .cover-two .navbar-div{
+    background-color: #00000047;
+    padding: 50px 0px;
+}
+.cover-one .cover-two .navbar-div .container-fluid .row .logo{
+}
+.cover-one .cover-two .navbar-div .container-fluid .row .logo > h1{
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 40px;
+    overflow: hidden;
+}
+
+.cover-one .cover-two .navbar-div .container-fluid .row .links{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cover-one .cover-two .navbar-div .container-fluid .row .links a{
+    text-decoration: none;
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-right: 15px;
+}
+.cover-one .cover-two .navbar-div .container-fluid .row .links .active{
+    text-decoration: none;
+    color: #ff885c;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-right: 15px;
+}
+.cover-one .cover-two .navbar-div .container-fluid .row .links a:hover{
+    text-decoration: none;
+    color: #ff885c;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-right: 15px;
+}
+.cover-one .cover-two .navbar-div .container-fluid .row .phone > p{
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    border: 1px solid #ff885c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: #ff885c;
+}
+.cover-one .cover-two .fun{
+  margin-top: 100px;
+  width: 25%;
+  margin-left: 40%;
+}
+.cover-one .cover-two .fun > form .form-group > label{
+  color: #fff;
+}
+.cover-one .cover-two .fun > form .form-group > input {
+  background: none;
+  background-color: #ff885c47;
+  border: none;
+  border: 2px solid #ff885c;
+  padding-bottom: 10px;
+  color: #fff;
+}
+.cover-one .cover-two .fun > form > button{
+  background: none;
+  border: none;
+  border: 2px solid #ff885c;
+  background-color: #ff885c;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}

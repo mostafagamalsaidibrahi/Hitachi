@@ -1,0 +1,51 @@
+.cover-one1{
+  background-image: url(../../images/elevator.jpg);
+  height: 150%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cover-one1 .cover-two2{
+  background-color: #0000004a;
+  height: 100%;
+}
+
+.retrived-data .table{
+  width: 20%;
+}
+.retrived-data .table .thead-dark th{
+  background-color: #ff885c;
+  border: 1px solid #ff885c;
+}
+.retrived-data .table td, .table th{
+  background-color: #ff885c45;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: OCR A Std, monospace;
+}
+
+.retrived-data .table > tbody{
+  height: 600px;
+}
+.btn-back{
+  background: none;
+  color: #fff;
+  text-decoration: none;
+  font-family: OCR A Std, monospace;
+  margin-top: 10px;
+  font-size: 20px;
+  border: 2px solid #ff885c;
+  padding: 10px 40px;
+  border-radius: 30px;
+}
+.btn-back:hover{
+  background: #ff885c;
+  color: #fff;
+  text-decoration: none;
+  font-family: OCR A Std, monospace;
+  margin-top: 10px;
+  font-size: 20px;
+  border: 2px solid #ff885c;
+  padding: 10px 40px;
+  border-radius: 30px;
+}

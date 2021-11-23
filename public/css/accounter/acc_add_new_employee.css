@@ -1,0 +1,25 @@
+form{
+  width: 50%;
+   margin: 0 auto;
+}
+ form .form-group > label{
+  color: #fff;
+}
+.cover-one1 .cover-two2 .adding > form .form-group > input {
+  background: none;
+  background-color: #ff885c47;
+  border: none;
+  border: 2px solid #ff885c;
+  padding-bottom: 10px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.cover-one1 .cover-two2 .adding > form > button{
+  background: none;
+  border: none;
+  border: 2px solid #ff885c;
+  background-color: #ff885c;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}

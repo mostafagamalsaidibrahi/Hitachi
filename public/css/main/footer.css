@@ -1,0 +1,7 @@
+.footer-div{
+  background-color: #ff885c;
+  padding: 20px;
+}
+.footer-div > a{
+  color: #fff;
+}

@@ -1,0 +1,15 @@
+.retrived-data .table{
+   margin: 0 auto;
+   margin-top: 30px;
+}
+.retrived-data .table td > a{
+  color: #fff;
+  border: 1px solid #ff885c45;
+  text-decoration: none;
+  padding:10px;
+}
+.retrived-data .table td > a:hover{
+  border: 1px solid #ff885c;
+  padding: 10px;
+  background-color: #ff885c;
+}

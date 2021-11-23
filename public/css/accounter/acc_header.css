@@ -1,0 +1,154 @@
+/* Navbar Section */
+.cover-one1{
+  background-image: url(../../images/elevator.jpg);
+  height: 110%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cover-one1 .cover-two2{
+  background-color: #0000004a;
+  height: 100%;
+}
+.cover-one1 .cover-two2 .navbar-div{
+    background-color: #00000047;
+    padding: 50px 0px;
+}
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .logo{
+}
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .logo > h1{
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 40px;
+    overflow: hidden;
+}
+
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .links{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .links a{
+    text-decoration: none;
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-right: 15px;
+}
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .links .active{
+    text-decoration: none;
+    color: #ff885c;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-right: 15px;
+}
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .links a:hover{
+    text-decoration: none;
+    color: #ff885c;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-right: 15px;
+}
+.cover-one1 .cover-two2 .navbar-div .container-fluid .row .phone > p{
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    border: 1px solid #ff885c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: #ff885c;
+}
+.cover-one1 .cover-two2 .content{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.cover-one1 .cover-two2 .content > h1{
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 40px;
+    overflow: hidden;
+    border:1px solid #ff885c;
+    padding: 20px 40px;
+    background-color: #ff885c;
+    display: inline-block;
+}
+.cover-one1 .cover-two2 .content > p{
+    color: #fff;
+    font-family: OCR A Std, monospace;
+    font-weight:bold;
+    font-size: 20px;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-bottom: 2px solid #ff885c;
+    display: inline-block;
+}
+.cover-one1 .cover-two2 .content > p > span{
+  color: #ff885c;
+}
+/* About Info */
+
+
+.about-div .content .say-hello{
+    height: 100%;
+}
+.about-div .content .say-hello > h1{
+  color: #ff885c;
+  font-family: OCR A Std, monospace;
+}
+.about-div .content .say-hello > form .form-group >input{
+    margin-bottom: 33px;
+    color: #ff885c;
+}
+.about-div .content .say-hello > form .form-group > button{
+  background: none;
+  padding: 10px 40px;
+  border:1px solid #ff885c;
+  background-color: #ff885c;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+.about-div .content .contact-info{}
+.about-div .content .contact-info > h1{
+  font-family: OCR A Std, monospace;
+  color: #ff885c;
+  margin-bottom: 70px;
+}
+.about-div .content .contact-info > p{
+  margin-bottom: 30px;
+}
+
+.about-div .content .contact-info .cont > i{
+  border: 2px solid #ff885c;
+  padding: 15px;
+  border-radius: 50%;
+  background: #ff885c;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.about-div .content .about > h1{
+  font-family: OCR A Std, monospace;
+  color: #ff885c;
+  margin-bottom: 40px;
+}
+.about-div .content .about > p{
+  font-family: OCR A Std, monospace;
+  color: #ff885c;
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 30px;
+}

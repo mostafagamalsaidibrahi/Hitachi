@@ -1,0 +1,46 @@
+.form1{
+  margin-top: 15%;
+}
+.form1 >label{
+  color: #fff;
+  font-family: OCR A Std, monospace;
+  font-size: 20px;
+}
+.form1 > select{
+  background: none;
+  border: 2px solid #ff885c;
+  padding: 5px 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  color: #fff;
+  font-family: OCR A Std, monospace;
+  margin-bottom: 30px;
+}
+.form1 > select > option{
+  background-color: #ff885c;
+  color: #fff;
+  font-family: OCR A Std, monospace;
+}
+.btn-click{
+  background: none;
+  color: #fff;
+  text-decoration: none;
+  font-family: OCR A Std, monospace;
+  margin-top: 10px;
+  font-size: 20px;
+  border: 2px solid #ff885c;
+  padding: 10px 40px;
+  border-radius: 30px;
+}
+.btn-click:hover{
+  background: #ff885c;
+  color: #fff;
+  text-decoration: none;
+  font-family: OCR A Std, monospace;
+  margin-top: 10px;
+  font-size: 20px;
+  border: 2px solid #ff885c;
+  padding: 10px 40px;
+  border-radius: 30px;
+}

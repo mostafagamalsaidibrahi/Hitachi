@@ -1,0 +1,14 @@
+.retrived-data .table{
+  width: 20%;
+}
+.retrived-data .table .thead-dark th{
+  background-color: #ff885c;
+  border: 1px solid #ff885c;
+}
+.retrived-data .table td, .table th{
+  background-color: #ff885c45;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: OCR A Std, monospace;
+}

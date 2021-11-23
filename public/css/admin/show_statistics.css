@@ -1,0 +1,35 @@
+.result_statistics{
+  margin-top: 10%;
+}
+
+.result_statistics .container{
+  background-color: blue;
+  margin: 0 auto;
+}
+
+.result_statistics .container .emps{
+  background-color: #ff885c;
+  font-family: OCR A Std, monospace;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px;
+}
+.result_statistics .container .emps .num1{
+  background-color: #fff;
+  padding: 10px;
+  color: #ff885c;
+  font-size: 50px;
+}
+.result_statistics .container .acc{
+  background-color: #fff;
+  font-family: OCR A Std, monospace;
+  color: #ff885c;
+  font-size: 20px;
+  padding: 10px;
+}
+.result_statistics .container .acc .num2{
+  background-color: #ff885c;
+  padding: 10px;
+  color: #fff;
+  font-size: 50px;
+}
